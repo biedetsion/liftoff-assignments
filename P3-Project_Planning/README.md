@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Login Screen](https://mega.nz/#!Gg0nHQBZ!fgP2hG5lAAzUKlJuhTYt7lG33jGwBGxgJxebbpzABdg)
+![Login Screen](https://photos.app.goo.gl/Gtdokf1eA6hBGksf6)
 
-![List of 'My Workouts'](https://mega.nz/#!z0sXTQYK!Tbzqk7sqKBVgRDMQeEa3TBK8UF2vU2V_0ErYXUw7poE)
+![List of 'My Workouts'](https://photos.app.goo.gl/pHjPUMHYnwyoyGtc8)
 
-![Gym Finder](https://mega.nz/#!2gtHWKSa!Mpg1vglM6h-W_SNMpCrKplf5kIvJyAR_d2PS7OAYjgk)
+![Gym Finder](https://photos.app.goo.gl/FA6PEFyGNxuXDa9t5)
 
 ### Project Tracker
 
