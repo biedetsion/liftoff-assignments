@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Login Screen](https://github.com/biedetsion/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Screen.pdf)
+![Login Screen](https://mega.nz/#!Gg0nHQBZ!fgP2hG5lAAzUKlJuhTYt7lG33jGwBGxgJxebbpzABdg)
 
-![List of 'My Workouts'](https://github.com/biedetsion/liftoff-assignments/blob/master/P3-Project_Planning/My%20Workouts.pdf)
+![List of 'My Workouts'](https://mega.nz/#!z0sXTQYK!Tbzqk7sqKBVgRDMQeEa3TBK8UF2vU2V_0ErYXUw7poE)
 
-![Gym Finder](https://github.com/biedetsion/liftoff-assignments/blob/master/P3-Project_Planning/Gym%20Finder.pdf)
+![Gym Finder](https://mega.nz/#!2gtHWKSa!Mpg1vglM6h-W_SNMpCrKplf5kIvJyAR_d2PS7OAYjgk)
 
 ### Project Tracker
 
