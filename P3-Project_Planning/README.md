@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+![Login Screen](https://github.com/biedetsion/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Screen.pdf)
+
+![List of 'My Workouts'](https://github.com/biedetsion/liftoff-assignments/blob/master/P3-Project_Planning/My%20Workouts.pdf)
+
+![Gym Finder](https://github.com/biedetsion/liftoff-assignments/blob/master/P3-Project_Planning/Gym%20Finder.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/fpnQKbDG/workoutcentral)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[WorkoutCentral Repo Link](https://github.com/biedetsion/workout-central)
